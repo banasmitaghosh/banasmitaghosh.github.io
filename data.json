@@ -1,0 +1,402 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "HARRY HOUDINI",
+      "image": "https://media.lasvegasmagazine.com/media/img/photos/2018/11/13/piff_the_magic_Dragon_LD_t1024.jpg?b3f067808e872500b33dd7ef4ee517933144b05a",
+      "description": "TOPPING THE LIST... the golden standard whose name recognition all other magicians strive for, the world famous Hungarian escape artist and magician, Harry Houdini. Though you may argue that Houdini was an escape artist, rather than a magician (and that would make you a little pretentious), we're still ready to call him the most famous magician in history, after all, we're still talking about him over 100 years later.",
+      "video_url":"https://youtu.be/LCsBg1DIWjs"
+    },
+    {
+      "id": 2,
+      "name": "MICHAEL CARBONARO",
+      "image": "https://bloximages.chicago2.vip.townnews.com/atlanticcityweekly.com/content/tncms/assets/v3/editorial/1/fe/1fe3f834-ca5d-11ec-92aa-0fb11c4e60cf/62704a4c20bff.image.jpg?resize=333%2C500",
+      "description":"Michael is probably best known for his television show The Carbonaro Effect. He is a prankster at heart, and on his show he would pose as a regular Joe who then pulls magic tricks out of his hat (so to speak) to freak out the unsuspecting public. His sometimes ridiculous explanations for what was going on, (never letting on that it was magic), made the situation even funnier. In his live show Michael brings all his wit and quirky humor to the stage, with sleight of hand, performance art and bizarre antics that will surely make for an evening of upbeat fun.",
+      "video_url":""
+    },
+    {
+      "id": 3,
+      "name": "SIEGFRIED & ROY",
+      "image": "https://cdn.theatlantic.com/thumbor/720Q9meP0MADZbim88FhAdpIF94=/0x0:2000x1626/928x754/media/img/posts/2022/09/1122_WEL_Mooney_SiegfriedandRoyOpener/original.jpg",
+      "description":"Even non-magic enthusiasts have heard of this dynamic duo who changed the face of Vegas show biz by turning magic into theatre, with dazzling displays and ornate costumes and, of course, their use of white tigers, lions (and bears, OH MY!) If you haven't heard of them for that, you may have heard about that one horrific time when of their tigers got frisky and almost killed Roy (the brunette.) Major career ending mishap aside, no list of the world's most famous magicians would be complete without this dazzling duo!",
+      "video_url":"https://youtu.be/5148deuSwXo"
+
+    },
+    {
+      "id": 4,
+      "name": "DOUG HENNING",
+      "image": "https://images.thestar.com/FPeFtltxX6csej4AwrN9oSu9Ab0=/33x43:1155x868/850x625/smart/filters:cb(1645730114567):format(webp)/https://www.thestar.com/content/dam/thestar/life/together/snapshot/2022/02/20/remembering-doug-henning-superstar-illusionist-turned-politician/henning_second2_rotate.jpg",
+      "description":"Doug Henning is easily THE GROOVIEST magician on this list. His tight fitting rainbow costumes and technicolor entourage come straight out of a 70's dream sequence, complete with tigers. (Are you seeing a trend here?) This hippy from Toronto took the dark and mysterious out of magic and replaced it with light, color, and probably patchouli oil. The clip above is from his Broadway show and taken from an ancient trick, brought it back from obscurity, added a new ending and created a masterpiece. Get past the silly dancing and 40 year old bling because it's phenomenal magic and that's why Doug is still famous so many years after retiring his act.",
+      "video_url":"https://youtu.be/-oB988DB8gk"
+
+    },
+    {
+      "id": 5,
+      "name": "JUAN TAMARIZ",
+      "image": "https://thedailymagician.com/wp-content/uploads/2018/06/Juan-luminato2010-221x300-1.jpg",
+      "description":"YEAH, Yeah, yeah... Juan Tamariz looks kind of like your weird uncle you only see at family reunions (where he's probably still performing magic) but this 'Master of manipulation' is one of the best cardicians ON THE PLANET and super famous in Spain and South America. He helped create a whole new school of magic around card tricks that has turned out a bunch of award winning magicians. This video is in Italian (because in addition to being a phenomenal magician, Tamariz is also a remarkable linguist), but you don't need to speak the language to enjoy this famous master magicians.",
+      "video_url":"https://youtu.be/upaAYyIa_Fk"
+
+    },
+    {
+      "id": 6,
+      "name": "DYNAMO",
+      "image": "https://d.newsweek.com/en/full/442627/dynamo-cinderella-ball.webp?w=737&f=1390938613265fed54d00a01fb7caf79",
+      "description":"Whether he's performing close up magic for celebrities or making cars (yes, cars!!!) appear out of the air, Dynamo is one of the most popular magicians in England and has made a name for himself around the world. If we had to guess why, it's probably because 1) he seems like a real chill dude, 2) that accent makes us melt, and 3) his magic tricks will blow your mind! YEAH, he made a car appear, but how on earth did he get that ring inside that can?!?!?!",
+      "video_url":"https://youtu.be/mNKYNOcLLKQ"
+
+    },
+    {
+      "id": 7,
+      "name": "DERREN BROWN",
+      "image": "https://media.gq.com/photos/5ddd7729099f0a000abd18ff/master/w_1600,c_limit/Derren%20Brown%20Secret%20now%20playing%20on%20Broadway%20at%20the%20Cort%20Theatre%20-%20photo%20by%20Matthew%20Murphy%20-%200152_EDIT_v001.jpg",
+      "description":"Check out his brilliant TV appearance above and imagine Derren Brown is probably great at parties if by 'great at parties' you mean 'gets inside people's heads and totally FREAK THEM OUT!!!' His brand of magic is a bit more in the realm of hypnotism and psychological manipulation (and a really really good memory!) than the other magicians on this list, but what else do you expect from someone who collects taxidermied animals? Of course the video doesn't explain how he got that number at the very end (traps within traps), here's a list of his greatest mind tricks.",
+      "video_url":"https://youtu.be/2IFa0tqHrwE"
+
+    },
+    {
+      "id": 8,
+      "name": "SHIN LIM",
+      "image": "https://www.tvguide.com/a/img/resize/75bfb83493233eafe55743a5e0599cd1bc52586a/hub/2018/09/20/b5693bcf-a02a-448d-af0e-070a10b7e017/180919-agtshinlim-news.jpg?auto=webp&fit=crop&height=1080&width=1920",
+      "description":"Shin Lim will BLOW YOUR MIND with his close up magic and card tricks, he's certainly blown our minds and America's (as the winner of America's Got Talent 2018), and even fooled Penn and Teller, a sure hallmark of a clever magician! His sleight of hand is stunning and those smoke effects are real sexy. Jump to the 3:00 mark to dive right into his act and skip the background fluff.",
+      "video_url":"https://youtu.be/thIlxChNYqk"
+
+    },
+    {
+      "id": 9,
+      "name": "DAVID BLAINE",
+      "image": "https://totallyhistory.com/wp-content/uploads/2013/10/David-Blaine.jpg",
+      "description":"If you're looking for a magician that can dazzle you with street magic (and actually revolutionized the world of television magic by bringing the street to the screen) and make you squirm uncomfortably with his gory techniques, David Blaine is the man for you. His feats of endurance are reminiscent of the great Harry Houdini. Make sure you WATCH THIS VIDEO to the very end for the ultimate WOW factor!",
+      "video_url":"https://youtu.be/8SFzZvlespA"
+
+    },
+    {
+      "id": 10,
+      "name": "PIFF (THE MAGIC DRAGON)",
+      "image": "https://www.gannett-cdn.com/presto/2018/09/11/PCIN/b06858a5-d3fd-4d8d-8d56-728b69176cad-Piff_1.jpg?width=300&height=450&fit=crop&format=pjpg&auto=webp",
+      "description":"Piff is instantly recognizable! Who wouldn't be dressed up in a green dragon suit, holding a fluffy white chihuahua (named Mr. Piffles)? The comedy is dry, sardonic, and well... British. Piff made the rounds of the standard shows Penn & Teller's Fool us as well as America's Got Talent and has been working extremely hard touring and headlining his own Vegas show.",
+      "video_url":"https://youtu.be/d6A6CAwTwHA"
+
+    },
+    {
+      "id": 11,
+      "name": "PENN AND TELLER",
+      "image": "https://media.cntraveler.com/photos/5a940fb3a566be4ab1b468e4/16:9/w_1920,c_limit/PennTeller0002r.jpg",
+      "description":"Although they may not be as rich as David Copperfield, Penn and Teller are also household names and actually make more money PER SHOW than Copperfield. Towering Penn and silent Teller may look like a mismatched pair, but these magicians have the honor of performing in the longest-running headline act IN VEGAS HISTORY and have hosted a series of television shows - including the currently running Fool Us, which you may recognize from Shin Lim's video above - and are masters of creative and edgy magic tricks themselves.",
+      "video_url":"https://youtu.be/mwkmgqbYXdE"
+
+    },
+    {
+      "id": 12,
+      "name": "THE VANISHING LADY (DE KOLTA CHAIR)",
+      "image": "https://alchetron.com/cdn/buatier-de-kolta-9990da26-a8e9-47d6-8177-87d37f7fad1-resize-750.jpg",
+      "description":"Developed by the French magician, Buatier de Kolta in the latter part of the nineteenth century, the effect involves the magician covering someone sitting in a chair with a large cloth. The form of the individual can still be seen as the cloth drapes down over her or him. The magician whisks the cloth away to reveal an empty chair. Even though this trick is now well over a century old, it is still a staggering sight to behold.",
+      "video_url":"https://youtu.be/tYDUsvw6jf0"
+
+    },
+    {
+      "id": 13,
+      "name": "P.C. Sorcar",
+      "image": "https://totallyhistory.com/wp-content/uploads/2013/10/PC-Sorcar.jpg",
+      "description":"Acheiving international fame as a magician.P.C. Sorcar reached the height of his worldwide success in the 1950’s and 60’s. He gained much fame when, in 1952, he performed his cutting a woman in half illusion on TV. The show went off air before the audience knew the fate of his assistant and scared viewers called in to find out if she was alive. He received numerous awards, including: the Oscar of Magic (The Sphinx), the Dutch Tricks Prize and the German Goldbar.",
+      "video_url":"https://youtu.be/L0x8QcGfRh0"
+
+    },
+    {
+      "id": 14,
+      "name": "LANCE BURTON",
+      "image": "https://www.investors.com/wp-content/uploads/2020/09/LSMAIN-lancemagic-100220-newscom.jpg",
+      "description":"Though he has retired from performing now, Lance Burton helped bring magic to millions. In 1982 he was the youngest magician to win the Grand Prix award at FISM, the Olympics of magic. He was also the first American to win the top prize. Burton later became a Vegas magic show fixture as the resident magician at the Monte Carlo in Las Vegas, Nevada, signing the longest performance contract ever given to a magician at the time. While he performed grand illusions (including one involving $10 million in gold), Burton is best known for his amazing sleight of hand work and his dove magic.",
+      "video_url":"https://youtu.be/57VBfLtQs1s"
+
+    },
+    {
+      "id": 15,
+      "name": "HARRY KELLAR",
+      "image": "https://totallyhistory.com/wp-content/uploads/2013/10/Harry-Kellar.jpg",
+      "description":"Known as 'The Dean of American Magic,Kellar toured the world performing large-scale illusions. Kellar is the first in the Royal Dynasty of Magic. This American dynasty involved the top performer of the time passing 'The Mantle of Magic' to a successor.Kellar named Howard Thurston as his. After Thurston passed away, Dante assumed the Mantle (though he was not 'officially' named by Thurston). Lee Grabel likewise assumed the Mantle unofficially after Dante's death. In 1994, Grabel passed the Mantle on to Lance Burton in an official ceremony. While Kellar was one of the top performers of the time, many of his famous illusions, including his levitation, were 'borrowed' from other performers such as John Nevil Maskelyne.",
+      "video_url":"https://youtu.be/GhYsquaOV08"
+
+    },
+    {
+      "id": 16,
+      "name": "DAVID DEVANT",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/David_Devant_magician.png",
+      "description":"Devant was a British magician who rose to prominence as a member of the Maskelyne & Cooke company. He later became business partners with John Nevil Maskelyne when the company moved to St. George's Hall in London. Devant was an exceptionally popular magician who gave numerous performances for royalty. He challenged established performing personas of the magician by introducing humor into his routines. Adept at sleight of hand as well as large illusions, one of Devant's signature pieces was Mascot Moth.",
+      "video_url":"https://youtu.be/75q8eVVV-uI"
+
+    },
+    {
+      "id": 17,
+      "name": "DAI VERNON",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Dai_vernon.jpg",
+      "description":"Known as 'The Professor,' Vernon is responsible for helping create the modern look of close-up magic. As the house magician at the world-famous Magic Castle in Hollywood, Vernon mentored and developed many of the best close-up magicians in the latter part of the 20th century. A master of cards, Vernon consistently studied sleights from card cheats and other magicians alike. He used this knowledge to create new tricks that are still a standard part of many performers' repertoires. Vernon once performed a card trick for Houdini that Houdini could not figure out. This led Vernon to bill himself as 'The Man Who Fooled Houdini'.",
+      "video_url":"https://youtu.be/KRhQleualfw"
+
+    },
+    {
+      "id": 18,
+      "name": "ALEXANDER HERRMANN(1844-1896)",
+      "image": "https://www.famousbirthdays.com/faces/hermann-alexander-image.jpg",
+      "description":"When you think of the quintessential classic look of the magician, you probably picture Herrmann the Great. With pointed goatee and formal evening wear, Herrmann established an enduring visual aesthetic for magicians. Herrmann the Great toured the world with his illusion show. He had a very public rivalry with Kellar (see #10 on this list). This led to the practice of designing elaborate posters to announce performances in a town. These posters are now highly collectible and created a strong focus on the visual branding of the magic act. One of Herrmann's most famous (and dangerous) tricks was the bullet catch, in which he would catch a signed bullet fired from a gun with his teeth.",
+      "video_url":""
+
+    },
+    {
+      "id": 19,
+      "name": "JOHN NEVIL MASKELYNE",
+      "image": "https://cdn.britannica.com/79/135479-004-3A0077C5/John-Nevil-Maskelyne.jpg",
+      "description":"John Nevil Maskelyne was a British magician who had an amazing thirty-one year run at the Egyptian Hall in London with George Cooke. After the Egyptian Hall closed, Maskelyne moved to St. George's Hall where he continued to stage magic shows. Both venues quickly became tourist attractions for those visiting London. Maskelyne presented magic as theatre, incorporating illusions into short plays such as Will, The Witch, and the Watchman. An outspoken critic of Spiritualism, Maskelyne was also an inventor. Among his innovations was the levitation illusion, now a staple of illusionists around the world.",
+      "video_url":""
+
+    },
+    {
+      "id": 20,
+      "name": "DAVID COPPERFIELD",
+      "image": "https://totallyhistory.com/wp-content/uploads/2013/10/David-Copperfield-192x235.jpg",
+      "description":"It would be difficult to find a harder working performer, in any field, than David Copperfield. Copperfield has appeared on Broadway and in twenty television specials. He is most famous for creating large original illusions including making the Statue of Liberty disappear and walking through the Great Wall of China. Copperfield also owns the largest collection of magic memorabilia and books in the world that he houses in a private museum. Despite being one of the wealthiest performers in the world, with an estimated fortune of $800 million, Copperfield still performs over five hundred shows a year at the MGM Grand in Las Vegas and on tour.",
+      "video_url":"https://youtu.be/y9mPQdsm7t4"
+
+    },
+    {
+      "id": 21,
+      "name": "HOWARD THURSTON",
+      "image": "https://d3h6k4kfl8m9p0.cloudfront.net/uploads/2015/04/10a-Levitation-edited-2-crop.jpg",
+      "description":"Thurston was arguably one of the last performers of the Golden Age of Magic. At the time of his death, he had the largest touring illusion show in the world. The second in line of the Royal Dynasty of Magic, Thurston expanded the show he inherited (or more correctly, purchased) from Kellar to make it truly his own. The Levitation of Princess Karnac that Kellar appropriated from Maskelyne (see our list of the Top Magic Tricks of All Time) was a key element of the Thurston show. Whereas Kellar focused primarily on large illusions, Thurston was skilled at sleight of hand as well. His shows, even though performed in large theatres, incorporated grand illusions and more intimate magic to create a truly unique experience.",
+      "video_url":""
+
+    },
+    {
+      "id": 22,
+      "name": "JEAN-EUGENE ROBERT-HOUDIN(1805-1871)",
+      "image": "https://magiciansmag.com/wp-content/uploads/2017/03/Jean-Eugene-Robert-Houdin-1.jpg",
+      "description":"Houdini derived his performing name from. Robert-Houdin was a French magician who helped establish magic as a legitimate theatrical art form. Robert-Houdin brought magic from the streets, where it was often performed by unsavory characters, into the theatre. He dressed in elegant evening attire and presented magic as not only mystical, but also scientific and intellectual. He brought new technology to the stage including automatons. Most famously, Robert-Houdin used magic to help avert a war in Algeria with his Light and Heavy Chest (see our list of the Top 10 Magic Tricks of All Time). Without Robert-Houdin, magic would look much different today.",
+      "video_url":""
+
+    },
+    {
+      "id": 23,
+      "name": "HARRY BLACSTONE Sr.",
+      "image": "https://totallyhistory.com/wp-content/uploads/2013/10/Harry-Blackstone-Sr.jpg",
+      "description":"Devised and performed the 'Sawing a Woman in Half' illusion.Known as 'The Great Blackstone,' this magician created many new tricks like 'the floating light bulb' and 'the vanishing bird cage.' He was also very talented with card tricks. His floating light bulb trick featured Blackstone removing a light bulb from a lamp still lit and then making it 'float' through a ring in the air. He then walked off the stage and the lamp would levitate out over the audience.",
+      "video_url":""
+
+    },
+    {
+      "id": 24,
+      "name": "CARDINI",
+      "image": "https://totallyhistory.com/wp-content/uploads/2013/10/Cardini-magician.jpg",
+      "description":" Being a master of card manipulation.Richard Valentine Pitchford, better known as 'Cardini,' was honored by being called the 'greatest exponent of pure sleight of hand the world has ever known' by the New England Magic Society. In 1970 he was given the distinction of 'Master Magician' at the Magic Castle in Los Angeles, California. Additionally, he was elected President of the Society of American Magicians three times.",
+      "video_url":""
+
+    },
+    {
+      "id": 25,
+      "name": "JAMES RANDI",
+      "image": "https://totallyhistory.com/wp-content/uploads/2013/10/James-Randi.jpg",
+      "description":"Being a great escape artists as well as a debunker of paranormal and supernatural claims.James Randi made a name for himself over the years by beating Houdini’s record time of being submerged in a metal coffin in a swimming pool for 104 minutes. He is also famous for escaping from a straight jacket while being hung upside down above Niagara Falls. He now devotes his time to exposing fraudulent claims of the paranormal and supernatural. He offers a $1 million prize to anyone that can prove him wrong.",
+      "video_url":""
+
+    },
+    {
+      "id": 26,
+      "name": "PAUL DANIELS",
+      "image": "https://totallyhistory.com/wp-content/uploads/2013/10/Paul-Daniels.jpg",
+      "description":"Internationally famous for his TV series 'The Paul Daniels Magic Show.'Paul Daniels had a incredibly popular and long-running BBC TV show from 1979 through 1994. His skills were recognized by the Hollywood Academy of Magical Arts when he was honored as 'Magician of the year in 1983. He was the first non-American magician to receive this distinction. Daniels was also given 'The Maskelyne' award by The Magic Circle for his contributions to British Magic.",
+      "video_url":""
+
+    },
+    {
+      "id": 27,
+      "name": "MARK WILSON",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Magic_Land_of_Allakazam_cast_1960.JPG",
+      "description":"Becoming the first 'television magician.'James 'Mark' Wilson first became fascinated with magic at the age of eight when he saw a show by the magician Tommy Martin. He began teaching himself and working at a magic shop to improve his skills. He used his marketing degree and talent to start the TV show “Time for Magic” that was sponsored by Dr. Pepper. He went on to create many different television shows including “The Magic of Mark Wilson” – which was nationally syndicated.",
+      "video_url":""
+
+    },
+    {
+      "id": 28,
+      "name": "CRISS ANGEL",
+      "image": "https://totallyhistory.com/wp-content/uploads/2013/10/Criss-Angel.jpg",
+      "description":"Being a world famous illusionist and magician.Criss Angel has been the International Magicians Society’s 'Magician of the Year'a record breaking five times. They also named him “Magician of the Decade” and “Magician of the Century.” He had a popular television show that ran for five years called “Criss Angel Mindfreak” in which he performed street magic and stunts. His signature tricks are making doves appear to materialize and fly from his hands, levitation and disappearing acts.",
+      "video_url":""
+
+    },
+    {
+      "id": 29,
+      "name": "RIANA ANTOINETTE",
+      "image": "https://w4n3g4i6.rocketcdn.me/wp-content/uploads/2023/01/Sacred-Riana--1024x585.jpg",
+      "description":"Magician Riana Antoinette was born in Indonesia on July 13, 1992. She's 30 years old today.The Sacred Riana is a well-known illusionist. Her horror-influenced act was seen by millions when she performed on Winner Asia's Got Talent in 2017, becoming the show's eventual winner. In 2014, she came in second place on the Trans7 reality show The Next Mentalist.",
+      "video_url":"https://youtu.be/v0G93umB_GM"
+
+    },
+    {
+      "id": 30,
+      "name": "ISSY SIMPSON",
+      "image": "https://cdn.allfamous.org/people/avatars/issy-simpson-20081110-allfamous.org.jpg",
+      "description":"Magician Issy Simpson was born on November 10, 2008 in England (She's 14 years old now).A child magician who rose to fame as a contestant on the reality show Winner Britain's Got Talent, when he came in second to champion Pianist Tokio Myers. She began participating on NBC's TV-Show Little Big Shots in 2018.",
+      "video_url":"https://youtu.be/IItTUaRCvDI"
+
+    },
+    {
+      "id": 31,
+      "name": "JULIUS DEIN",
+      "image": "https://cdn.allfamous.org/people/avatars/julius-dein-tq8m-allfamous.org.jpg",
+      "description":"Magician Julius Dein was born in London, England on April 23, 1994. He's 28 years old today.Internet star and close-up magician known for his pranks and magic acts. He's played at a number of celebrity birthday parties, corporate gatherings, and award ceremony gifting suites, including the Oscars. He's also a member of the Magic Circle, an exclusive society.",
+      "video_url":"https://youtu.be/GBSAf3c10eA"
+
+    },
+    {
+      "id": 32,
+      "name": "JASON DEAN",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/JasonDeanMagician.jpg",
+      "description":"Magician Jason Dean was born on October 18, 1980 in Kansas City, Kansas, United States (He's 42 years old now).An American magician who is credited by many with the ability to make even the most skeptical individual believe in magic.He was named Closeup Magician of the Year in Kansas City from 2002 through 2005.He was born in the city of Kansas City.",
+      "video_url":""
+
+    },
+    {
+      "id": 33,
+      "name": "COSENTINO",
+      "image": "https://static.ffx.io/images/$zoom_0.337%2C$multiply_0.6988%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_36/t_crop_custom/q_86%2Cf_auto/8cf73f69fd02a97a20e3deed0ccc367a41033302",
+      "description":"Magician Cosentino was born on November 2, 1982 in Melbourne, Australia (He's 40 years old now).Magician and reality personality who came in second place on Australia's Got Talent season five. In 2013, he and his partner Jessica Raffa won season 13 of Dancing With The Stars Australia. He was named International Magician of the Year in 2013 and International Escape Artist of the Year in 2015.He's also visited Hong Kong and Indonesia and performed on Talkin' 'Bout Your Generation and Asia's Got Talent. His TV shows have aired in over 40 countries, and he has become Australia's best-selling live act.He is of Italian heritage and grew up in Australia.",
+      "video_url":""
+
+    },
+    {
+      "id": 34,
+      "name": "RICK SMITH Jr",
+      "image": "https://ricksmithjr.com/wp-content/uploads/2013/09/Smith_Press_1.jpg",
+      "description":"Richard Smith Jr is a professional magician and card thrower from Cleveland, Ohio. Smith is known for his many performances on national television as well as three world records for throwing cards over the greatest distance, the greatest altitude and the most accurate. Drawing on his throwing skills from his days as a handball player with the Division I NCAA at Cleveland State University, he has also released a number of educational films about magic and card-throwing practice.Illusionist who became known to a national audience through his appearances on shows like Shark Tank, America's Got Talent, and Ripley's Believe It or Not. His self-titled YouTube channel, where he exhibits his distinctive card-throwing techniques, is also well-known.",
+      "video_url":""
+
+    },
+    {
+      "id": 35,
+      "name": "COLLINS KEY",
+      "image": "https://www.businessinsider.in/thumb/msid-70983863,width-700,resizemode-4,imgsize-83160/Collins-Key-built-a-YouTube-channel-with-19-million-subscribers-after-striking-out-in-Hollywood-He-told-us-his-data-driven-strategy-to-get-150-million-monthly-views-.jpg",
+      "description":"Collins Key is an American YouTuber, entertainer, actor, and magician. As of December 2020, his channel has amassed more than 22.5 million subscribers, generating more than 170 million views per month with over 5.4 billion total lifetime views. As a magician, he was a finalist on the eighth season of America's Got Talent, and later toured as part of Demi Lovato's Neon Lights tour. Key created and starred in a campaign for AT&T called The Disappearing Girl, for which he received a number of awards. Key has also been nominated for multiple Teen Choice Awards.",
+      "video_url":"https://youtu.be/m29Ea15s9z8"
+
+    },
+    {
+      "id": 36,
+      "name": "GAY BLACKSTONE",
+      "image": "https://cdn.allfamous.org/people/avatars/gay-blackstone-qphn-allfamous.org.jpg",
+      "description":"Magician Gay Blackstone was born in Texas, United States on March 27, 1952. She's 70 years old today.Former President of the Academy of Magical Arts and a magician. She was also the International Brotherhood of Magicians' international representative.Gay Blackstone is an American television and theater producer, director, consultant, instructor, and writer. She is president of the Academy of Magical Arts and is named one of the 'Outstanding Women of Hollywood 2007' by the Hollywood Chamber of Commerce.",
+      "video_url":"https://youtu.be/yn83b2cFaDQ"
+
+    },
+    {
+      "id": 37,
+      "name": "MAT FRANCO",
+      "image": "https://cdn.allfamous.org/people/avatars/mat-franco-9nzs-allfamous.org.jpg",
+      "description":"Mat Franco is an American magician best known for his personality driven, skill-based sleight of hand magic. He gained fame as the first magician to win America's Got Talent in the show's ninth season. Franco went on to produce and star in his own primetime TV specials on NBC, Mat Franco's Got Magic. In 2015 he created and debuted his live stage show in Las Vegas, Mat Franco - Magic Reinvented Nightly, and he is currently headlining at The LINQ Hotel + Experience at the Mat Franco Theater. In addition to winning 'Best Magic Show' at the Best of Vegas Awards, Franco's live production was the top-rated magic show in Las Vegas according to Billboard.com in 2021. Mat Franco - Magic Reinvented Nightly was awarded Best Show on the Las Vegas Strip again in 2022.",
+      "video_url":""
+
+    },
+    {
+      "id": 38,
+      "name": "DEDDY CORBUZIER",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Deddy_Corbuzier%2C_Netmediatama%2C_03.38.jpg",
+      "description":"Deodatus Andreas Deddy Cahyadi Sunjoyo, also known as Deddy Corbuzier, is an Indonesian psychiatrist, actor, TV presenter and YouTuber. He is the recipient of the Merlin Award for 'Best Psychiatrist in the World' twice in a row. Deddy made his television debut in 1998 with Impresario RCTI. He performed many public stunts with many famous magicians. As an actor, Deddy starred in The Mentalist. Deddy also wrote, directed and starred in the action film Triangle The Dark Side Deddy is also known as Youtuber. After resigning from the Wizarding World, Deddy actively created his video podcast titled 'Close The Door' on his YouTube channel. As of September 2020, her YouTube channel had over 13.1 million subscribers and her videos had over 2.07 billion views.",
+      "video_url":"https://youtu.be/xWN2KLJmue0"
+
+    },
+    {
+      "id": 39,
+      "name": "ALAN WATSON",
+      "image": "https://cdn.allfamous.org/people/avatars/alan-watson-19501125-allfamous.org.jpg",
+      "description":"Magician Alan Watson was born in New Zealand on November 25, 1950. He's 72 years old today.Magician and illusionist best known for his appearances at the Magic Castle in Los Angeles.He received the Grand Master of Magic Award from New Zealand in 2006.",
+      "video_url":"https://youtu.be/ueBKuGfpAV4"
+
+    },
+    {
+      "id": 40,
+      "name": "COLIN CLOUD",
+      "image": "https://i2-prod.ok.co.uk/incoming/article28764911.ece/ALTERNATES/s615b/2_Screenshot-2022-12-18-at-215126.jpg",
+      "description":"Magician Colin Cloud was born in Scotland on January 9, 1987. He's 36 years old today.Scottish stage mentalist who is best known for his mind reading and illusion performances. He has showed off his unique talents on talent competition shows such as Winner Britain's Got Talent and Winner America's Got Talent.",
+      "video_url":""
+
+    },
+    {
+      "id": 41,
+      "name": "DARCY OAKE",
+      "image": "https://www.attitude.co.uk/wp-content/uploads/sites/5/2014/06/darcey2.jpg",
+      "description":"Magician Darcy Oake was born in Winnipeg, Canada on September 27, 1987. He's 35 years old today.During his appearances on Britain's Got Talent in 2014, he enthralled viewers with his illusions. He is recognized for his ability to predict people's thoughts and make people and stuff appear and disappear.He became an international magic champion when he was 16, beating out experienced magicians and winning the coveted People's Choice Gold Medal.",
+      "video_url":"https://youtu.be/gO_KyTtJg10"
+
+    },
+    {
+      "id": 42,
+      "name": "JUSTIN FLOM",
+      "image": "https://s3.amazonaws.com/assets.inarkansas.com/84461/justin-flom-magician.jpg",
+      "description":"Justin Flom is an American magician. He is best known for his YouTube series and television show Wizard Wars in which he performs magic with ordinary objects. Along with his video and television work, he performs live with either his own touring show or opening for music acts in large venues.Achievement of Justin Flom under the name 'Band Of Magicians,' he and several other superstar magicians toured Australia.",
+      "video_url":"https://youtu.be/OtPg8aoclsE"
+
+    },
+    {
+      "id": 43,
+      "name": "ANDREW BASSO",
+      "image": "https://www.famousbirthdays.com/faces/basso-andrew-image.jpg",
+      "description":"Magician Andrew Basso was born in Italy on October 25, 1985. He's 37 years old today.He is known as The Escapologist as well as the Rock Star of Magic, and he is the star of the hugely popular magic show The Illusionists. He founded and became president of the Prestige Magic Academy in Italy in 2009, an organization dedicated to teaching children the art of magic.",
+      "video_url":"https://videos.dailymail.co.uk/video/mol/2022/06/01/3562810209139407972/640x360_MP4_3562810209139407972.mp4"
+
+    },
+    {
+      "id": 44,
+      "name": "DANIEL FERNANDEZ",
+      "image": "https://www.celebsinsights.com/wp-content/uploads/celeb/fernandez-daniel-image.jpg",
+      "description":"Magician Daniel Fernandez was born in Seville, Spain on August 17, 1999. He's 23 years old today.He is a magician, photographer, and actor who can be seen performing magic on every cab screen in Las Vegas and on different television shows. He was named 'Hollywood's most favorite party guest' by the New York Daily News.",
+      "video_url":""
+
+    },
+    {
+      "id": 45,
+      "name": "LUCA GALLONE",
+      "image": "https://pbs.twimg.com/profile_images/947428379313229824/Y95wQvDq_400x400.jpg",
+      "description":"Magician Luca Gallone was born on March 14, 1996 in England (He's 27 years old now).Magician who won all four judges on the 2015 season of Britain's Got Talent. On his lucaggallone Instagram account, he has over 1.7 million followers.",
+      "video_url":""
+
+    },
+    {
+      "id": 46,
+      "name": "MARC SPELMANN",
+      "image": "https://static.wikia.nocookie.net/britains-got-talent/images/9/9b/Marc_Spelmann.PNG",
+      "description":"Magician Marc Spelmann was born in London, England on September 19, 1971. He's 51 years old today.On Winner Britain's Got Talent, he won the first Golden Buzzer of the year.He called Winner Britain's Got Talent a mockery of a show on Twitter in 2012, but has since removed the tweets.",
+      "video_url":""
+
+    },
+    {
+      "id": 47,
+      "name": "DOMINIC WOOD",
+      "image": "https://www.famousbirthdays.com/faces/wood-dominic-image.jpg",
+      "description":"Dominic Simon 'Dom' Wood is a British radio and television artist, magician and presenter, best known for playing a half in the double roles Dick and Dom, with the other being Richard McCourt. McCourt is also the godfather of two sons of Wood, Tommy and Sam. From October 14, 2007 until September 2008, he and his partner McCourt presented the Sunday morning program on BBC Radio 1 from 10 a.m. to 1 p.m., but then left. the program due to commitments to television.",
+      "video_url":""
+
+    },
+    {
+      "id": 48,
+      "name": "WIAN VAN DEN BERG",
+      "image": "https://cdn.allfamous.org/people/avatars/wian-van-den-berg-yf6l-allfamous.org.jpg",
+      "description":"Magician Wian Van den Berg was born in South Africa on June 19, 1995. He's 27 years old today.South African magician who has his own television series and has competed on South Africa's Got Talent, where he was a finalist. He's also well-known for sharing his tips on social media, with over 500,000 Instagram followers.He's also recognized for performing at events for a variety of prominent corporations, including Mercedes-Benz, Coca-Cola, and BMW.",
+      "video_url":""
+
+    },
+    {
+      "id": 49,
+      "name": "RICH FERGUSON",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/RichFerguson.jpg",
+      "description":"Magician Rich Ferguson was born in California, United States on December 1, 1970. He's 52 years old today.The Ice Breaker is an American magician and performer who rose to prominence as a result of his stage appearances. He has been a consultant and guest on such popular programs as The Today Show, Good Morning America, Ellen, and The Tonight Show.The Magic Castle Gold Medal was handed to him in 2004. From 2006 to 2016, he was chosen Best Entertainer by Central California's Readers Poll 11 times in a row. He has over 2.4 million subscribers on his self-titled YouTube page.",
+      "video_url":""
+
+    },
+    {
+      "id": 50,
+      "name": "JIBRIZY",
+      "image": "https://cdn.allfamous.org/people/headshots/jibrizy-tigw-allfamous.org-4.jpg",
+      "description":"Magician Jibrizy was born on October 14, 1995 in Waukegan, Illinois, United States (He's 27 years old now).The 'Hip-Hop Magician' is a magician who does sleight-of-hand tricks. He has appeared on television shows such as Penn & Teller: Fool Us and Masters of Illusion. He pranked Comedian Kevin Hart in a LOL Network video.He has performed miracles for the Chicago Bulls.",
+      "video_url":""
+
+    }
+  ]
+}
