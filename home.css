@@ -387,10 +387,6 @@
   flex-direction: column;
   padding-bottom: 50px;
 }
-.home-image {
-  width: 115px;
-  object-fit: cover;
-}
 .home-caption {
   font-size: 24px;
   max-width: 900px;
